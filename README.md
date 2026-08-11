@@ -202,7 +202,7 @@ Dashboard Screenshot 2
 
 - Forecast future employment trends using Machine Learning.
 - Build an interactive Streamlit web application.
-- Integrate additional economic indicators.
+- Integrate additional economic indicators.  
 - Automate data updates.
 
 ---
