@@ -169,7 +169,3 @@ Some major findings include:
 **Suganya K**
 
 Aspiring Data Analyst
-
-
-
-⭐ If you found this project useful, feel free to star this repository.
