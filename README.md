@@ -4,7 +4,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-orange)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
